@@ -1,4 +1,5 @@
 #  SQLify AI
+Demo : https://drive.google.com/file/d/1zm0BBrKghu5G41DgcKw0yfh-KvkUz_j9/view?usp=sharing
 
 # AI-Powered Natural Language to SQL Query Generator
 SQLify AI is a smart, developer-friendly application that converts natural language into valid SQL queries using advanced Large Language Models (LLMs). It helps data analysts, developers, and non-technical users quickly generate queries without manual SQL writing — making database interaction more intuitive, faster, and accessible.
